@@ -41,4 +41,10 @@ many stackoverflow or biostar questoins as it takes to get an answer to this
 task. Some useful links include the [Software Carpentry
 Lesson](http://swcarpentry.github.io/python-novice-inflammation/) on python, [the
 Biopython project](https://biopython.org/) and the [codeacademy python
-course](https://www.codecademy.com/learn/learn-python-3).
+course](https://www.codecademy.com/learn/learn-python-3). You can dicuss your
+progress on this assesment with colleagues and with David.
+
+The VCF format is [formally defined here](https://samtools.github.io/hts-specs/VCFv4.2.pdf)[pdf],
+though [the wikipedia page may offer a better
+introduction](https://en.wikipedia.org/wiki/Variant_Call_Format). For our
+purposes, we need only to use on the CHROM, POS, ID, REF and ALT columns. 
