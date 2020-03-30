@@ -91,8 +91,11 @@ made in the paper, describe the tools used to achieve these findings.
 ## Presentation
 
 **Due**: TBC
+
 **Weight** 25%
+
 **Task Description**
+
 Give a short presentation on the "challenges and opportunities" for transposable element research in fungi in 2020. The talk should describe how new sequencing technologies and computational methods contribute to TE biology, but also address shortcomings of current approaches.
 
 ** Assessment criteria **
