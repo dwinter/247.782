@@ -88,3 +88,13 @@ papers with more computational more more experimental focus etc). The brief
 statements under each cited should clearly describe the findings and / or points
 made in the paper, describe the tools used to achieve these findings. 
 
+## Presentation
+
+**Due**: TBC
+**Weight** 25%
+**Task Description**
+Give a short presentation on the "challenges and opportunities" for transposable element research in fungi in 2020. The talk should describe how new sequencing technologies and computational methods contribute to TE biology, but also address shortcomings of current approaches.
+
+** Assessment criteria **
+
+The talk will be assessed on both the content of the talk and the style of your presentation. The total grade will consist of 5 points for each of **Introduction**, **Overall-content**, **Structure and slide design**, **Presentation style** and **Handling questions**. To achieve a very high grade, you should present a talk that draws on recently published papers to describe current state of TE research. The presentation should use simple slides, each with a clear message and it should be presented in an engaging style. Because I'll be marking this, [you can see what I think makes a good talk here](https://sciblogs.co.nz/the-atavism/2011/04/06/what-makes-a-great-scientific-talk/)! 
