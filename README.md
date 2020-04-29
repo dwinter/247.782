@@ -101,3 +101,29 @@ Give a short presentation on the "challenges and opportunities" for transposable
 ** Assessment criteria **
 
 The talk will be assessed on both the content of the talk and the style of your presentation. The total grade will consist of 5 points for each of **Introduction**, **Overall-content**, **Structure and slide design**, **Presentation style** and **Handling questions**. To achieve a very high grade, you should present a talk that draws on recently published papers to describe current state of TE research. The presentation should use simple slides, each with a clear message and it should be presented in an engaging style. Because I'll be marking this, [you can see what I think makes a good talk here](https://sciblogs.co.nz/the-atavism/2011/04/06/what-makes-a-great-scientific-talk/)! 
+
+
+## Final programming task
+
+**Due**: End of semester
+
+**Weight**: 25%
+
+**Task Description**
+
+The program that you wrote for the first programming task works _on the data you were provided_. For this task you will modify your program to make it more robust to input data and to check the data is usable by your program.. 
+
+This `second_task` directory of this repository contains a new set of fake sequencing reads and a new reference genome. Each of these sequences differ in some way from the data
+that you were provided for the first programming task. For each of these sequences, identify how they differ from the original data and determine if your program can still produce 
+reliable results from data in this form. In cases where the program no longer produces reliable information, modify the program to either accommodate this difference or produce a useful error message for the user. You should also write a test suite that confirms that the functions in your program can be relied on to work with this input data. (You can talk with David about how to design an implement these tests). 
+
+
+** Assessment criteria **
+
+
+You should submit a brief summary of how each of the new sequences differ from the expected input from the last task. This can be either a plain
+text document or a spreadsheet. For each sequence, include a description of how your new program deals with this sort of data (i.e. modifications made to the program or documentation). 
+
+You should submit new program that handles these differences (or reports useful error messages) and includes tests that assure the program will
+behave as you expect it to on all these inputs. You will be assessed on code itself (including using functions as appropriate and "readability" 
+of the code) as well as the level of documentation and testing in the program
