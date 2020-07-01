@@ -98,7 +98,7 @@ made in the paper, describe the tools used to achieve these findings.
 
 Give a short presentation on the "challenges and opportunities" for transposable element research in fungi in 2020. The talk should describe how new sequencing technologies and computational methods contribute to TE biology, but also address shortcomings of current approaches.
 
-** Assessment criteria **
+**Assessment criteria**
 
 The talk will be assessed on both the content of the talk and the style of your presentation. The total grade will consist of 5 points for each of **Introduction**, **Overall-content**, **Structure and slide design**, **Presentation style** and **Handling questions**. To achieve a very high grade, you should present a talk that draws on recently published papers to describe current state of TE research. The presentation should use simple slides, each with a clear message and it should be presented in an engaging style. Because I'll be marking this, [you can see what I think makes a good talk here](https://sciblogs.co.nz/the-atavism/2011/04/06/what-makes-a-great-scientific-talk/)! 
 
@@ -118,7 +118,7 @@ that you were provided for the first programming task. For each of these sequenc
 reliable results from data in this form. In cases where the program no longer produces reliable information, modify the program to either accommodate this difference or produce a useful error message for the user. You should also write a test suite that confirms that the functions in your program can be relied on to work with this input data. (You can talk with David about how to design an implement these tests). 
 
 
-**Assessment criteria **
+**Assessment criteria**
 
 
 You should submit a brief summary of how each of the new sequences differ from the expected input from the last task. This can be either a plain
