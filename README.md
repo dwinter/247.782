@@ -118,7 +118,7 @@ that you were provided for the first programming task. For each of these sequenc
 reliable results from data in this form. In cases where the program no longer produces reliable information, modify the program to either accommodate this difference or produce a useful error message for the user. You should also write a test suite that confirms that the functions in your program can be relied on to work with this input data. (You can talk with David about how to design an implement these tests). 
 
 
-** Assessment criteria **
+**Assessment criteria **
 
 
 You should submit a brief summary of how each of the new sequences differ from the expected input from the last task. This can be either a plain
